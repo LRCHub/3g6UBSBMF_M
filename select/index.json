@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "BTG",
+  "base_artist": "KiiiKiii",
+  "createdAt": "2026-03-11T11:55:28.131826Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "M.M. (feat. BTG, Singa & Bispo)",
+      "artist": "Landim",
+      "has_synced": false,
+      "path": "select/01_M.M._(feat._BTG,_Singa_&_Bispo)_Landim.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BTG",
+      "artist": "KiiiKiii",
+      "has_synced": true,
+      "path": "select/02_BTG_KiiiKiii.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BTG",
+      "artist": "KiiiKiii",
+      "has_synced": false,
+      "path": "select/03_BTG_KiiiKiii.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Summer Anthem! (feat. BTG ZEE & Dr3!)",
+      "artist": "7sirens",
+      "has_synced": false,
+      "path": "select/04_Summer_Anthem!_(feat._BTG_ZEE_&_Dr3!)_7sirens.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "(Everybody's Waiting For) the Man with the Btg",
+      "artist": "Kay Starr",
+      "has_synced": true,
+      "path": "select/05_(Everybody's_Waiting_For)_the_Man_with_the_Btg_Kay_Starr.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BTG",
+      "artist": "KiiiKiii",
+      "has_synced": false,
+      "path": "select/pl_01_BTG_KiiiKiii.txt"
+    }
+  ]
+}
